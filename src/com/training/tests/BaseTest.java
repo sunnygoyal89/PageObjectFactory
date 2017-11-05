@@ -17,7 +17,7 @@ public class BaseTest {
 
 	protected WebDriver driver;
 	protected WebDriverWait driverWait;
-	String AppURL = "http://medopsplus.techcanvass.co.in/";
+	String AppURL = "http://appurl.com";
 
 	@BeforeClass
 	public void setUp() {
